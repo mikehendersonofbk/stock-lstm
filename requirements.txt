@@ -1,0 +1,7 @@
+pandas
+sklearn
+numpy
+keras
+python-dotenv
+requests
+tensorflow
